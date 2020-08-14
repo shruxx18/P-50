@@ -1,0 +1,31 @@
+h1{
+    color:whitesmoke;
+}
+.Class1{
+    background-color: rosybrown;
+    display:flex;
+    justify-content: space-between;
+}
+.menu{
+    font-style: italic;
+    color: whitesmoke;
+}
+h2,p{
+    font-size: large;
+    font-style: italic;
+    color:pink;
+    text-align: center;
+}
+.Grid{
+    display:flex;
+    flex-wrap:wrap;
+    justify-content: space-between;
+}
+Body{
+    background-color: black;
+}
+h3{
+    color:whitesmoke;
+    text-align: justify;
+    text-underline-position: below;
+}
